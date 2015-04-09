@@ -1,5 +1,4 @@
 # gitskills
-wengxuejie
 Creating a new branch is quick AND simple.
-erere
-eree
+wengxuejie
+2015-4-9
